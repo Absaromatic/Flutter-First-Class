@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
                         height: 70,
                       ),
                       Text(
-                        "Please login to continue",
+                        "barae meharbani login karein",
                         style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.w600,
